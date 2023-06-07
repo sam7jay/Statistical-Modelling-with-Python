@@ -1,7 +1,7 @@
 # Final-Project-Statistical-Modelling-with-Python
 
 ## Project/Goals
-The main goals of this project are to gain insights into the bike station data, analyze the relationship between bike stations and nearby POIs, assess the quality of API data, and build a statistical model to understand the factors influencing bike station usage.
+The main goals of this project are to gain insights into the bike station data, analyze the relationship between bike stations and nearby Points of Interest, assess the quality of API data, and build a statistical model to understand the factors influencing bike station usage.
 
 ## Process
 ### COLLECT DATA
