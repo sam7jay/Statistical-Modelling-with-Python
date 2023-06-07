@@ -8,19 +8,24 @@
 Access data using CityBikes API.
 Store the API key in the machine's environment.
 Retrieve data by calling the API URL and specifying the desired location data.
-Convert the data from JSON to a DataFrame.
+Convert the Convert the list of dictionaries to a DataFrame.
 Convert the DataFrame to a CSV file.
 ### CLEAN DATA
 Remove duplicate and NULL values from the data.
 Eliminate unnecessary columns.
-Organize the data in a structured manner.
+Organize the data in a structured manner..
 ### SQLITE DATABASE
 Create a SQLite database using Python.
 Define tables and import values from CSV files.
 ### VISUALIZATION
 Present the data using various charts and graphs for improved understanding and visual appeal.
+Creat a map centered on the mean coordinate.
+Plot average bikes available by location.
+plot bikes available versus distance.
 ### REGRESSION MODEL
 Create a regression model to analyze the correlation between dependent and independent variables.
+Split the data into features and target.
+Train and evaluate the model.
 
 ## Results
 RESULTS: the model is not good fit because R-square is too low which show a low correlation.
