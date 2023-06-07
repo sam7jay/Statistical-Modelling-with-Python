@@ -31,7 +31,12 @@ Train and evaluate the model.
 RESULTS: the model is not good fit because R-square is too low which show a low correlation.
 
 ## Challenges 
-(discuss challenges you faced in the project)
-
+API Limitations: The APIs you are working with, such as CityBikes, Foursquare, and Yelp, have limitation
+Data Quality and Completeness: The data obtained from APIs are not always perfect.
+Authentication and API Keys: Some APIs require authentication using API keys.
+Data Integration and Joining: Joining data from different sources, such as CityBikes, Foursquare, and Yelp, can be challenging.
+Database Management: Creating and managing a SQLite.
 ## Future Goals
-(what would you do if you had more time?)
+Spend more time on data cleaning and preprocessing.
+Conduct a more comprehensive EDA to gain deeper insights into the data.
+Explore additional data visualization techniques to effectively communicate insights and findings from the analysis
