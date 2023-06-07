@@ -1,0 +1,92 @@
+,fsq_id,category_id,category_name,chains,distance,latitude,longitude,location_country,location_cross_street,location_formatted_address,location_locality,location_postcode,location_region,location_timezone,name
+0,4b65b9f1f964a520fefb2ae3,13031,Burger Joint,"[{'id': 'ab4a3530-d68a-012e-5619-003048cad9da', 'name': ""McDonald's""}]",62,43.665065,-79.319,CA,btw Queen St. E & Eastern Ave.,"31 Woodward Ave (btw Queen St. E & Eastern Ave.), Toronto ON M9N 2J3",Toronto,M9N 2J3,ON,America/Toronto,McDonald's
+1,4d0cef321f6bf04d75707a31,16037,Playground,[],63,43.664679,-79.319687,CA,,"20 Woodward Ave, Toronto ON M4L 1A7",Toronto,M4L 1A7,ON,America/Toronto,Jonathan Ashbridge Park
+2,4deb8ba688774880e3387c0c,17065,Farmers Market,[],40,43.664679,-79.319687,CA,Dundas St E,"150 Greenwood Ave (Dundas St E), Toronto ON",Toronto,,ON,America/Toronto,Leslieville Farmers Market
+3,4fdbc663e4b029940a58c201,16049,Surf Spot,[],153,43.664482,-79.325548,CA,,"1366 Queen St E, Toronto ON M4L 1C8",Toronto,M4L 1C8,ON,America/Toronto,The Beach
+4,4be3345b660ec928226dcb3b,16017,Garden,[],173,43.665243,-79.322769,CA,,"1444 Queen St E, Toronto ON M4L 1E1",Toronto,M4L 1E1,ON,America/Toronto,The Ashbridge Estate
+5,4ad9ebdcf964a520e61b21e3,13049,Diner,[],129,43.665121,-79.321347,CA,,"1483 Queen St E, Toronto ON M4L 1E2",Toronto,M4L 1E2,ON,America/Toronto,Chick-N-Joy
+6,4be19f361a44a59311379287,12064,Government Building,[],237,43.663417,-79.320844,CA,,"969 Eastern Ave, Toronto ON M4L 1A5",Toronto,M4L 1A5,ON,America/Toronto,Canada Post South Central Plant
+7,58d4650e2f91cb5ccec03447,13029,Brewery,[],194,43.663372,-79.319902,CA,Woodfield Rd,"1001 Eastern Ave (Woodfield Rd), Toronto ON M4L 1A8",Toronto,M4L 1A8,ON,America/Toronto,Rorschach Brewing
+8,5fdb88ac70334509b92baa73,13097,Caribbean Restaurant,[],171,43.666138,-79.31814,CA,,"1588 Queen St E, Toronto ON M4L 1G1",Toronto,M4L 1G1,ON,America/Toronto,Jaclyn's
+9,4b5c7ad5f964a520df3129e3,13002,Bakery,[],603,43.676486,-79.448732,CA,,"1311 Saint Clair Ave W, Toronto ON M6E 1C2",Toronto,M6E 1C2,ON,America/Toronto,Tre Mari Bakery
+10,5069b6cbe4b0d34396cab1ea,16037,Playground,[],61,43.67169,-79.446745,CA,,"120 Primrose Ave, Toronto ON",Toronto,,ON,America/Toronto,Primrose Avenue Parkette
+11,4ad4c05ef964a520ccf620e3,16032,Park,[],505,43.67369,-79.45165,CA,,"1200 Lansdowne Ave, Toronto ON M6H 3Z8",Toronto,M6H 3Z8,ON,America/Toronto,Earlscourt Park
+12,4afb4141f964a520681c22e3,12009,Education,[],546,43.674116,-79.440446,CA,Westmount Ave,"Regal Rd (Westmount Ave), Toronto ON M6H 2J6",Toronto,M6H 2J6,ON,America/Toronto,Regal Road Junior Public School
+13,4da781ab0cb65e9aae54e9ea,16033,Dog Park,[],270,43.671997,-79.44946,CA,,"1200 Lansdowne Ave, Toronto ON M6H 3Z8",Toronto,M6H 3Z8,ON,America/Toronto,Earlscourt Park Off-Leash Area
+14,4bd5d73e637ba5931b21f770,17029,Convenience Store,[],223,43.672605,-79.441139,CA,Dufferin,"1395 Davenport Rd (Dufferin), Toronto ON M6H 2H6",Toronto,M6H 2H6,ON,America/Toronto,QQ Convenience
+15,4b52325ef964a5201b6f27e3,11152,Recording Studio,[],339,43.668935,-79.44373,CA,at Lightbourn Ave.,"330 Geary Ave (at Lightbourn Ave.), Toronto ON M6H 2C7",Toronto,M6H 2C7,ON,America/Toronto,Rehearsal Factory
+16,5066fc5be4b01301ebf02337,16032,Park,[],247,43.671077,-79.448985,CA,,ON,,,ON,America/Toronto,Davenport Village in Toronto
+17,4c65384cf07e2d7f873f9150,16032,Park,[],187,43.67026,-79.444036,CA,,"19 Chandos Ave, Toronto ON",Toronto,,ON,America/Toronto,Chandos Park South
+18,4c097d63a1b32d7f3ac997f0,11066,Dry Cleaner,[],23,43.665975,-79.317273,CA,,"1597 Queen St E, Toronto ON M4L 1E5",Toronto,M4L 1E5,ON,America/Toronto,Canadian Drycleaners
+19,60280caaaa745f79d2f50e15,13034,Café,[],179,43.666781,-79.315436,CA,,"1636 Queen St E, Toronto ON M4L 1G3",Toronto,M4L 1G3,ON,America/Toronto,Simple Coffee
+20,5c1c3a0d340a58002cd86fc9,13199,Indian Restaurant,[],57,43.6664,-79.316826,CA,Coxwel,"1610 Queen St E (Coxwel), Toronto ON M4L 1G2",Toronto,M4L 1G2,ON,America/Toronto,Butter Chicken Roti
+21,4afec89ef964a520623022e3,13049,Diner,[],68,43.666394,-79.316918,CA,Coxwell Ave,"1606 Queen St E (Coxwell Ave), Toronto ON M4L 1G2",Toronto,M4L 1G2,ON,America/Toronto,Tulip Restaurant
+22,4b9bdca4f964a520782e36e3,17119,Bicycle Store,[],17,43.666157,-79.317863,CA,,"1592 Queen St E, Toronto ON M4L 1G1",Toronto,M4L 1G1,ON,America/Toronto,Velotique
+23,4e1d9859b0fb93d2d06393c1,11134,Pet Grooming Service,[],64,43.666131,-79.318233,CA,Coxwell,"1582 Queen St E (Coxwell), Toronto ON M4L 1G1",Toronto,M4L 1G1,ON,America/Toronto,Canine Clips
+24,51b7de7a498e159c1779f34a,13097,Caribbean Restaurant,[],66,43.666394,-79.316918,CA,Coxwell Ave.,"1610 Queen St E (Coxwell Ave.), Toronto ON M4L 1G2",Toronto,M4L 1G2,ON,America/Toronto,Beryl's Pepper Pot
+25,4f39937fe4b0a4d442d0af8c,11134,Pet Grooming Service,"[{'id': '03b84f95-9e23-497d-86bf-dc83c3491013', 'name': 'Pet Valu'}]",257,43.667128,-79.314509,CA,,"1656 Queen St E, Toronto ON M4L 1G3",Toronto,M4L 1G3,ON,America/Toronto,Pet Valu
+26,4b4d2e7bf964a52089cd26e3,13039,Deli,"[{'id': 'ab4bee40-d68a-012e-5619-003048cad9da', 'name': 'Subway'}]",64,43.666113,-79.316921,CA,,"1599 Queen St E, Toronto ON M4L 1E5",Toronto,M4L 1E5,ON,America/Toronto,Subway
+27,4d5d327e6f6d6ea8920f6dec,15000,Health and Medicine,[],24,43.652893,-79.376404,CA,Church Street,"61 Queen St E (Church Street), Toronto ON M5C 2T2",Toronto,M5C 2T2,ON,America/Toronto,St. Michael's Health Centre
+28,4c18cadefe5a76b0dd800215,15016,Medical Center,[],33,43.652907,-79.37622,CA,Church,"61 Queen St E (Church), Toronto ON M5C 2T2",Toronto,M5C 2T2,ON,America/Toronto,St Michael's Clinic
+29,4ad4c05ef964a520d3f620e3,12101,Church,[],75,43.653996,-79.376673,CA,,"56 Queen St E, Toronto ON M5C 2Z3",Toronto,M5C 2Z3,ON,America/Toronto,Metropolitan United Church
+30,4ae079a3f964a5207f7f21e3,17024,Camera Store,[],129,43.652742,-79.376941,CA,,"89 Queen St E, Toronto ON M5C 1S1",Toronto,M5C 1S1,ON,America/Toronto,Downtown Camera
+31,4ad4c064f964a5206ff820e3,15014,Hospital,[],106,43.653687,-79.37784,CA,at Queen St E,"30 Bond St (at Queen St E), Toronto ON M5B 1W8",Toronto,M5B 1W8,ON,America/Toronto,St Michael's Hospital
+32,4b8eaea1f964a520b03033e3,13049,Diner,"[{'id': '47e6f193-dc6a-475f-a49b-ffacf449fa12', 'name': 'Booster Juice'}]",154,43.65266,-79.378845,CA,Suite #110,"2 Queen St E (Suite #110), Toronto ON M5C 3G7",Toronto,M5C 3G7,ON,America/Toronto,Booster Juice
+33,4e262044b0fb1fae1dd140fd,16020,Historic and Protected Site,[],53,43.652913,-79.376127,CA,,Toronto ON,Toronto,,ON,America/Toronto,Queen East Historic District
+34,4ba52d58f964a52015e838e3,13031,Burger Joint,"[{'id': 'ab4a3530-d68a-012e-5619-003048cad9da', 'name': ""McDonald's""}]",98,43.653124,-79.375595,CA,at Queen St. E,"127 Church St (at Queen St. E), Toronto ON M5C 2G5",Toronto,M5C 2G5,ON,America/Toronto,McDonald's
+35,4b5fdb7ff964a520ebce29e3,13064,Pizzeria,[],8,43.663917,-79.379982,CA,at Alexander St.,"447 Church St (at Alexander St.), Toronto ON M4Y 2C5",Toronto,M4Y 2C5,ON,America/Toronto,Express Pizza
+36,4ad9fc4bf964a520c81c21e3,11045,Bank,"[{'id': 'd5192150-d890-0132-61d3-7a163eb2a6fc', 'name': 'BMO Bank of Montreal'}]",5,43.663773,-79.380426,CA,at Alexander St.,"492 Church St (at Alexander St.), Toronto ON M4Y 2C8",Toronto,M4Y 2C8,ON,America/Toronto,BMO Bank of Montreal
+37,4b1334e4f964a520829523e3,17029,Convenience Store,[],1,43.663865,-79.379927,CA,Alexander,"445 Church St (Alexander), Toronto ON M4Y 2C5",Toronto,M4Y 2C5,ON,America/Toronto,Maple Leaf Convenience Mart
+38,4ad88725f964a5200d1221e3,13011,Gay Bar,[],74,43.664459,-79.380255,CA,,"467 Church St, Toronto ON M4Y 2C5",Toronto,M4Y 2C5,ON,America/Toronto,Woody's
+39,4c193c77838020a1e768e561,13276,Sushi Restaurant,[],20,43.663917,-79.379982,CA,,"451 Church St, Toronto ON M4Y 2C5",Toronto,M4Y 2C5,ON,America/Toronto,Kawa Sushi
+40,54df6d93498e8f442fef67e9,11064,Hair Salon,[],33,43.664106,-79.380479,CA,,"500 Church St, Toronto ON M4Y 2C8",Toronto,M4Y 2C8,ON,America/Toronto,Ben's Den Barber Hairstylist
+41,4bdc45fe2a3a0f47c31ab2b6,16000,Landmarks and Outdoors,[],2,43.663779,-79.380334,CA,Church St.,"70 Alexander St (Church St.), Toronto ON M4Y 3B6",Toronto,M4Y 3B6,ON,America/Toronto,Alexander Wood Statue
+42,5d191bac18222300261fa00a,13192,Hawaiian Restaurant,[],24,43.663433,-79.380466,CA,,"500 Church St, Toronto ON M4Y 2C8",Toronto,M4Y 2C8,ON,America/Toronto,Hawaii Poke
+43,5f8357d327c7356cbe5d2207,13064,Pizzeria,[],18,43.663884,-79.380444,CA,Alexander St,"500 Church St (Alexander St), Toronto ON M4Y 2C8",Toronto,M4Y 2C8,ON,America/Toronto,Pizza Studio
+44,4da08d5da77d816e54dc1a09,10004,Art Gallery,[],23,43.663779,-79.380334,CA,Alexander St.,"500 Church St (Alexander St.), Toronto ON M4Y 2C8",Toronto,M4Y 2C8,ON,America/Toronto,Canadian Sculpture Centre
+45,4b7c8d87f964a520999a2fe3,17018,Bookstore,[],44,43.657608,-79.390339,CA,University and College,"600 University Ave (University and College), Toronto ON M5G 1X5",Toronto,M5G 1X5,ON,America/Toronto,Indigospirit
+46,4ad4c064f964a52070f820e3,15014,Hospital,[],131,43.658716,-79.388225,CA,at Gerrard St W,"190 Elizabeth St (at Gerrard St W), Toronto ON M5G 2C4",Toronto,M5G 2C4,ON,America/Toronto,Toronto General Hospital
+47,4b82ba3ff964a520c5e030e3,13032,"Cafe, Coffee, and Tea House","[{'id': 'd5713b70-d890-0132-61d3-7a163eb2a6fc', 'name': 'Second Cup'}]",77,43.657504,-79.390229,CA,Mount Sinai Hospital,"600 University Ave (Mount Sinai Hospital), Toronto ON M5G 1X5",Toronto,M5G 1X5,ON,America/Toronto,Second Cup
+48,4ad4c064f964a5206ef820e3,15014,Hospital,[],215,43.657254,-79.387478,CA,at Gerrard St.,"555 University Ave (at Gerrard St.), Toronto ON M5G 1X8",Toronto,M5G 1X8,ON,America/Toronto,Hospital For Sick Children
+49,5187d8e9498e1f88b1f50ec7,17018,Bookstore,"[{'id': 'a050b295-4a43-4d68-ab40-2df63d9c90ab', 'name': 'Indigo'}]",40,43.657694,-79.389932,CA,at Gerrard St. W,"600 University Ave (at Gerrard St. W), Toronto ON M5G 1X5",Toronto,M5G 1X5,ON,America/Toronto,Indigo
+50,547f4814498e15be1c31660e,15017,Medical Lab,[],31,43.657421,-79.389047,CA,,"600 University Ave, Toronto ON M5G 1X5",Toronto,M5G 1X5,ON,America/Toronto,Mt Sinai Medical Imaging
+51,4ad4c064f964a52071f820e3,15014,Hospital,[],44,43.657438,-79.390359,CA,,"600 University Ave, Toronto ON M5G 1X5",Toronto,M5G 1X5,ON,America/Toronto,Mount Sinai Hospital
+52,4bd89241f645c9b69850a8e0,13058,Hot Dog Joint,[],64,43.657694,-79.389932,CA,"at Gerrard St., in from of the Mt Sinai Hospital","600 University Ave (at Gerrard St., in from of the Mt Sinai Hospital), Toronto ON M5G 1X5",Toronto,M5G 1X5,ON,America/Toronto,Moroney's Hot Dog Stand
+53,4af4e6e2f964a52052f721e3,13026,BBQ Joint,[],18,43.656414,-79.382809,CA,Atrium on Bay,"595 Bay St (Atrium on Bay), Toronto ON M5G 2C2",Toronto,M5G 2C2,ON,America/Toronto,St. Louis Bar and Grill
+54,4c0e6af8336220a1dc24cc77,12075,Post Office,"[{'id': 'd575ffb0-d890-0132-61d3-7a163eb2a6fc', 'name': 'Canada Post'}]",57,43.656073,-79.383643,CA,in Atrium On Bay,"595 Bay St (in Atrium On Bay), Toronto ON M5G 2C2",Toronto,M5G 2C2,ON,America/Toronto,Canada Post
+55,4c47839b417b20a1a1ebdda9,17069,Grocery Store,[],263,43.658801,-79.384732,CA,Gerard,"711 Bay St (Gerard), Toronto ON M5G 2J8",Toronto,M5G 2J8,ON,America/Toronto,Fine Food Market Inc
+56,4eadd3dbe5fad025f84c97f4,13002,Bakery,[],64,43.656253,-79.381941,CA,,"595 Bay St, Toronto ON M5G 2C2",Toronto,M5G 2C2,ON,America/Toronto,Kin-Kin Bakery
+57,4f27ff3de4b0dfdabccdb9ac,13035,Coffee Shop,[],128,43.655434,-79.383167,CA,in Ted Rogers School of Management,"575 Bay St (in Ted Rogers School of Management), Toronto ON M5G 2C5",Toronto,M5G 2C5,ON,America/Toronto,Tim Hortons
+58,4b02da44f964a520654a22e3,11045,Bank,"[{'id': 'd519bba0-d890-0132-61d3-7a163eb2a6fc', 'name': 'CIBC'}]",55,43.656093,-79.383365,CA,in Atrium on Bay,"595 Bay St (in Atrium on Bay), Toronto ON M5G 2C2",Toronto,M5G 2C2,ON,America/Toronto,CIBC
+59,4ad8b6e9f964a520ec1321e3,11147,Commercial Real Estate Developer,[],71,43.65633,-79.382421,CA,at Yonge St.,"20 Dundas St W (at Yonge St.), Toronto ON M5G 2C2",Toronto,M5G 2C2,ON,America/Toronto,Atrium on Bay
+60,58e91d60e0adac258fcea481,13099,Chinese Restaurant,[],90,43.656628,-79.383731,CA,Bay Street,"66 Edward St (Bay Street), Toronto ON M5G 1C9",Toronto,M5G 1C9,ON,America/Toronto,GB Hand-Pulled Noodles
+61,613cf07666564c16ba542b0f,13099,Chinese Restaurant,[],66,43.656095,-79.382571,CA,,"40 Dundas St W, Toronto ON M5G 2C2",Toronto,M5G 2C2,ON,America/Toronto,Moon Palace Cantonese Cuisine
+62,5afd9e1f418686002c60cfd9,13033,Bubble Tea Shop,[],20,43.664612,-79.414463,CA,,"630 Bloor St W, Toronto ON M6G 1K7",Toronto,M6G 1K7,ON,America/Toronto,CoCo Fresh Tea & Juice
+63,4b894f02f964a520582a32e3,11045,Bank,"[{'id': 'd5192150-d890-0132-61d3-7a163eb2a6fc', 'name': 'BMO Bank of Montreal'}]",12,43.664513,-79.415055,CA,at Euclid Ave.,"640 Bloor St W (at Euclid Ave.), Toronto ON M6G 1K9",Toronto,M6G 1K9,ON,America/Toronto,BMO Bank of Montreal
+64,53e2bc3f498ec6568c243992,13032,"Cafe, Coffee, and Tea House",[],23,43.664293,-79.414225,CA,,"631 Bloor St W, Toronto ON M6G 1K8",Toronto,M6G 1K8,ON,America/Toronto,Ave Maria Latin Cafe
+65,4b11b1f2f964a520778223e3,13026,BBQ Joint,[],33,43.664553,-79.414501,CA,,"628 Bloor St W, Toronto ON M6G 1K7",Toronto,M6G 1K7,ON,America/Toronto,Korean Village Restaurant
+66,55198a64498eed3a6b5f729e,13145,Fast Food Restaurant,"[{'id': 'ab4beec0-d68a-012e-5619-003048cad9da', 'name': 'KFC'}]",9,43.66454,-79.414685,CA,,"636 Bloor St W, Toronto ON M6G 1K7",Toronto,M6G 1K7,ON,America/Toronto,KFC
+67,6431bd7073ec0206ee6e8570,13040,Dessert Shop,[],28,43.664298,-79.414519,CA,,"635 Bloor St W, Toronto ON M6G 1K8",Toronto,M6G 1K8,ON,America/Toronto,Dessert Fox
+68,529fa5c0498e4682b58f5470,13289,Korean Restaurant,[],26,43.664395,-79.41513,CA,Euclid,"642 Bloor St W (Euclid), Toronto ON M6G 1K9",Toronto,M6G 1K9,ON,America/Toronto,Barrio Coreano
+69,4b928c59f964a520300334e3,11064,Hair Salon,[],19,43.664266,-79.414595,CA,at Euclid Ave.,"635 Bloor St W (at Euclid Ave.), Toronto ON M6G 1K8",Toronto,M6G 1K8,ON,America/Toronto,Maya Hair Salon
+70,4bca2834511f95219b2fafc7,13002,Bakery,[],21,43.664279,-79.41441,CA,,"631 Bloor St W, Toronto ON M6G 1K8",Toronto,M6G 1K8,ON,America/Toronto,Bnc Cake House
+71,5bd1b81b898bdc00395db846,19014,Hotel,[],585,43.665561,-79.4076,CA,,"296 Brunswick Ave, Toronto ON M5S 2M7",Toronto,M5S 2M7,ON,America/Toronto,The Annex
+72,51f14b06498e9f95ad340195,13065,Restaurant,[],14,43.67554,-79.388473,CA,,"931 Yonge St, Toronto ON M4W 2H2",Toronto,M4W 2H2,ON,America/Toronto,Spring Cafe Bistro
+73,4bd62daf6798ef3b99c8648d,16032,Park,[],48,43.675715,-79.389156,CA,Aylmer,"Aylmer, Toronto ON",Toronto,,ON,America/Toronto,Budd Sugarman Park
+74,4ba7a2cef964a520b9a439e3,15007,Dentist,[],17,43.675271,-79.389085,CA,at Belmont St.,"980 Yonge St (at Belmont St.), Toronto ON M4W 3V8",Toronto,M4W 3V8,ON,America/Toronto,Kerhoulas Dental Rosedale
+75,4adf3283f964a5203f7821e3,19046,Metro Station,[],138,43.676644,-79.388743,CA,at Crescent Rd.,"1009 Yonge St (at Crescent Rd.), Toronto ON M4W 2K9",Toronto,M4W 2K9,ON,America/Toronto,Rosedale Subway Station
+76,5e498dec7260f80008cdc742,13035,Coffee Shop,[],134,43.674345,-79.388704,CA,,"920 Yonge St, Toronto ON M4W 3C7",Toronto,M4W 3C7,ON,America/Toronto,Coffee Lunar
+77,567ede3f498e84036e64a39e,17025,Electronics Store,[],51,43.675142,-79.38855,CA,Aylmer Ave.,"919 Yonge St (Aylmer Ave.), Toronto ON M4W 2H2",Toronto,M4W 2H2,ON,America/Toronto,Rosedale Computers
+78,4b68455ef964a520f66e2be3,11064,Hair Salon,[],44,43.675142,-79.38855,CA,,"921 Yonge St, Toronto ON M4W 2H2",Toronto,M4W 2H2,ON,America/Toronto,Hair Sculpture and Spa
+79,51b8aa52498eb2168f292ad9,11000,Business and Professional Services,[],32,43.675715,-79.389156,CA,Belmont,"1000 Yonge St (Belmont), Toronto ON M4W 2K2",Toronto,M4W 2K2,ON,America/Toronto,Timbercreek Asset Management
+80,4b81644af964a52049a330e3,15054,Veterinarian,[],182,43.673978,-79.389713,CA,Entrance on McMurrich St,"920 Yonge St (Entrance on McMurrich St), Toronto ON M4W 3C7",Toronto,M4W 3C7,ON,America/Toronto,VEC - Veterinary Emergency Clinic
+81,4af6de52f964a520b20322e3,16032,Park,[],93,43.676047,-79.390004,CA,Yonge Street,"1 Ramsden Rd (Yonge Street), Toronto ON M6E 2N1",Toronto,M6E 2N1,ON,America/Toronto,Ramsden Park
+82,4ad4c061f964a520a3f720e3,13236,Italian Restaurant,[],19,43.674983,-79.396149,CA,,"202 Davenport Rd, Toronto ON M5R 1J2",Toronto,M5R 1J2,ON,America/Toronto,Joso's
+83,4bec8ab849430f478ee507d2,11090,Interior Designer,[],81,43.674733,-79.397278,CA,Avenue Rd,"234 Davenport Rd (Avenue Rd), Toronto ON M5R 1J6",Toronto,M5R 1J6,ON,America/Toronto,Gluckstein Design Planning Inc
+84,4ba3b7fff964a520f35738e3,17025,Electronics Store,[],32,43.674904,-79.396464,CA,Avenue & Davenport,"175 Ave Rd (Avenue & Davenport), Toronto ON M5R 2J2",Toronto,M5R 2J2,ON,America/Toronto,Bang Olufsen
+85,4c45ac15429a0f47c0684a1e,17029,Convenience Store,[],71,43.674818,-79.396871,CA,Davenport Road,"148 Ave Rd (Davenport Road), Toronto ON M5R 2H8",Toronto,M5R 2H8,ON,America/Toronto,Super Convenience
+86,570ff104498eeab32a85da3e,18021,Gym and Studio,[],30,43.674977,-79.396241,CA,,"175 Ave Rd, Toronto ON M5R 2J2",Toronto,M5R 2J2,ON,America/Toronto,Crossfit Inc
+87,618ca101ab4b8264f40b147a,13148,French Restaurant,[],73,43.674381,-79.396708,CA,,"134 Ave Rd, Toronto ON M5R 2H6",Toronto,M5R 2H6,ON,America/Toronto,Osteria Giulia
+88,4c8bc4cf5e38b1f773f22af9,11073,Spa,[],67,43.675148,-79.395427,CA,,"180 Davenport Rd, Toronto ON M5R 1J2",Toronto,M5R 1J2,ON,America/Toronto,Salon Jie
+89,4b04191df964a5205c5122e3,11045,Bank,"[{'id': 'd51aa7f0-d890-0132-61d3-7a163eb2a6fc', 'name': 'TD Bank Financial Group'}]",45,43.674487,-79.396023,CA,at Davenport Rd.,"165 Ave Rd (at Davenport Rd.), Toronto ON M5R 3S4",Toronto,M5R 3S4,ON,America/Toronto,TD Bank Financial Group
+90,56d5a00fcd109c07f4c4afa5,13034,Café,[],145,43.673676,-79.396362,CA,,"131 Ave Rd, Toronto ON M5R 2H7",Toronto,M5R 2H7,ON,America/Toronto,5 Elements Espresso
