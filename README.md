@@ -4,11 +4,26 @@
 (fill in your description and goals here)
 
 ## Process
-### (your step 1)
-### (your step 2)
+### COLLECT DATA
+Access data using CityBikes API.
+Store the API key in the machine's environment.
+Retrieve data by calling the API URL and specifying the desired location data.
+Convert the data from JSON to a DataFrame.
+Convert the DataFrame to a CSV file.
+### CLEAN DATA
+Remove duplicate and NULL values from the data.
+Eliminate unnecessary columns.
+Organize the data in a structured manner.
+### SQLITE DATABASE
+Create a SQLite database using Python.
+Define tables and import values from CSV files.
+### VISUALIZATION
+Present the data using various charts and graphs for improved understanding and visual appeal.
+### REGRESSION MODEL
+Create a regression model to analyze the correlation between dependent and independent variables.
 
 ## Results
-(fill in what you found about the comparative quality of API coverage in your chosen area and the results of your model.)
+RESULTS: the model is not good fit because R-square is too low which show a low correlation.
 
 ## Challenges 
 (discuss challenges you faced in the project)
